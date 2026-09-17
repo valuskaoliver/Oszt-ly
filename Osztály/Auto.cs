@@ -19,7 +19,7 @@ namespace Osztály
                 {
                     gyartasiEv = value;
                 }
-                else gyartasiEv = 0;
+                else gyartasiEv = 2000;
             }
         }
         public Auto(int GyartasiEv, string modell, string marka)
