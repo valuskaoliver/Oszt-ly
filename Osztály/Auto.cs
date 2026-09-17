@@ -30,6 +30,9 @@ namespace Osztály
         }
 
         public void KiirAdatok()
+        {
+            Console.WriteLine($"{Marka} {Modell} - Gyártási év: {GyartasiEv}");
+        }
 
 
     }
